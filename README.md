@@ -32,7 +32,7 @@ Path: Outputs/Performance bar chart.jpg
 ![Performance Chart](Outputs/Performance%20bar%20chart.jpg)
 
 Path: Outputs/Training_loss.jpg  
-![Training Loss](Outputs/Training_loss.jpg)
+![Training Loss](Outputs/Traning_loss.jpg)
 
 ## 🧾 Conclusion  
 Attention mechanism enhances performance and is crucial for modern sequence models.
