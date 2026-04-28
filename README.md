@@ -1,37 +1,38 @@
-📘 Assignment 6
-Encoder–Decoder Models with and without Attention
-📌 Objective
+# 📘 Assignment 6  
+## Encoder–Decoder Models with and without Attention  
 
-To compare Encoder–Decoder models with and without Attention mechanism.
+## 📌 Objective  
+To compare Encoder–Decoder models with and without Attention mechanism.  
 
-📂 Project Structure
-Assignment-6/
-│── Outputs/
-│   ├── Attention_Heatmaps.jpg
-│   ├── Performance_bar_chart.jpg
-│   ├── Training_loss.jpg
-│── README.md
-│── report.pdf
-│── dode.ipynb
-│── report.pdf
+## 📂 Project Structure  
+Assignment-6/  
+│── Outputs/  
+│   ├── Attention Heatmaps.jpg  
+│   ├── Performance bar chart.jpg  
+│   ├── Training_loss.jpg  
+│── README.md  
+│── report.pdf  
+│── code.ipynb  
 
-🧪 Models Implemented
-Encoder–Decoder (Without Attention)
-Encoder–Decoder (With Attention)
-📊 Results Summary
-Attention improves context understanding
-Better handling of long sequences
-Lower training loss and better performance
-📷 Outputs
-🔥 Attention Heatmap
-Outputs/Attention_Heatmaps.jpg
+## 🧪 Models Implemented  
+- Encoder–Decoder (Without Attention)  
+- Encoder–Decoder (With Attention)  
 
-📊 Performance Comparison
-Outputs/Performance_bar_chart.jpg
+## 📊 Results Summary  
+- Attention improves context understanding  
+- Better handling of long sequences  
+- Lower training loss and better performance  
 
-📉 Training Loss
-Outputs/Training_loss.jpg
+## 📷 Outputs  
 
-🧾 Conclusion
+Path: Outputs/Attention Heatmaps.jpg  
+![Attention Heatmap](Outputs/Attention%20Heatmaps.jpg)
 
+Path: Outputs/Performance bar chart.jpg  
+![Performance Chart](Outputs/Performance%20bar%20chart.jpg)
+
+Path: Outputs/Training_loss.jpg  
+![Training Loss](Outputs/Training_loss.jpg)
+
+## 🧾 Conclusion  
 Attention mechanism enhances performance and is crucial for modern sequence models.
